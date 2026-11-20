@@ -1,9 +1,9 @@
-# Medha Bendalam — Portfolio
+# Medha Bendalam � Portfolio
 
-Built with React, TypeScript and Vite. The visual structure follows Rahul Chinta’s portfolio, adapted with a burgundy palette and Medha’s own content.
+Built with React, TypeScript and Vite. Midnight Blue and Periwinkle visual theme.
 
 ## Run locally
 
-```powershell
+``powershell
 npm run dev
-```
+``
